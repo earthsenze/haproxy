@@ -1,1 +1,1 @@
-# haproxy
+# HAProxy dockerized
